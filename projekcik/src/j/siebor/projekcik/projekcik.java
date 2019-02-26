@@ -1,4 +1,4 @@
-package j.siebor.github.integration;
+package j.siebor.projekcik;
 
 import javax.swing.*;
 
@@ -9,5 +9,5 @@ public class Runner {
                 "Welcome on GitHub",
                 "Information",
                 JOptionPane.INFORMATION_MESSAGE);
-    }
-}
+                        }
+                        }
