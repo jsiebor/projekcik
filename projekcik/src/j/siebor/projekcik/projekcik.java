@@ -2,7 +2,7 @@ package j.siebor.projekcik;
 
 import javax.swing.*;
 
-public class Runner {
+class Runner {
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(
                 null,
